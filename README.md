@@ -73,7 +73,64 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+data.head
+![data.head](/data_head.PNG)
+
+
+data1.head
+![data1.head](/data1_head.PNG)
+
+
+data1.isnull
+
+![data1.isnull](/isnull.PNG)
+
+
+data1.isduplicated
+
+![data1.isduplicated](/isduplicate.PNG)
+
+
+LabelEncoder
+![LabelEncoder](/LabelEncoder.PNG)
+
+
+print(x)
+![x values](/Print%20X.PNG)
+
+
+print(y)
+
+![y values](/Print%20Y.PNG)
+
+
+LogisticRegression
+![y_pred](/print%20y_pred%20(Log-Reg).PNG)
+
+
+accuracy_score
+
+![accuracy_score](/accuracy_score.PNG)
+
+
+confusion_matrix
+
+![confusion_matrix](/confusion_matrix.PNG)
+
+classification_report
+![classification_report](/classification_report.PNG)
+
+lr.predict
+![lr.predict](/lr_predict.PNG)
+
+
+
+
+
+
+
+
+
 
 
 ## Result:
