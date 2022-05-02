@@ -96,6 +96,7 @@ LabelEncoder
 
 
 print(x)
+
 ![x values](/Print%20X.PNG)
 
 
