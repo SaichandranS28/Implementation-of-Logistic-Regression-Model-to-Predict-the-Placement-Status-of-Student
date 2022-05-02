@@ -106,6 +106,7 @@ print(y)
 
 
 LogisticRegression
+
 ![y_pred](/print%20y_pred%20(Log-Reg).PNG)
 
 
@@ -119,6 +120,7 @@ confusion_matrix
 ![confusion_matrix](/confusion_matrix.PNG)
 
 classification_report
+
 ![classification_report](/classification_report.PNG)
 
 lr.predict
